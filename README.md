@@ -28,3 +28,6 @@ Thank you for visiting this repository! I hope you find it useful in your coding
 
 ![Data  Structure](data.png)
 
+![Data  Structure](hierarchy-structure.png)
+
+
