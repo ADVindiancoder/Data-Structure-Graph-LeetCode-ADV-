@@ -25,3 +25,6 @@ If you'd like to contribute to this repository, feel free to create a pull reque
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 Thank you for visiting this repository! I hope you find it useful in your coding journey.
+
+![Data  Structure](data.png)
+
